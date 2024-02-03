@@ -19,14 +19,15 @@ I'm a passionate Software Developer with a focus on both FrontEnd and BackEnd de
 
 ## 🔧 Skills
 - **BackEnd Development:** Python, Django/RestApi's, SQL/MongoDB
-- **FrontEnd Development:** Html/CSS/JS/Bootstrap
+- **FrontEnd Development:** Html/CSS/JS/Bootstrap/Angular
 - **Database:** SQL/MongoDB
-- **Tools:** AWS/EC2/S3, Docker
+- **Cloud:** AWS/EC2/S3
+- **Cloud:** Git/GitHub, Docker
 
 ## 📫 Contact Me
 - Email: muskusha10l@gmail.com
 - GitHub: [nayeemabee](https://github.com/nayeemabee)
-- LinkedIn: [nayeemabee](https://github.com/nayeemabee)
+- LinkedIn: [Nayeema-Bee](https://www.linkedin.com/in/nayeema-bee-850318235/)
 
 Feel free to explore my repositories, and let's connect to discuss software development, technology, or any exciting opportunities! 👩‍💻
 
