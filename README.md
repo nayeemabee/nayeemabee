@@ -25,7 +25,7 @@ I'm a passionate Software Developer with a focus on both FrontEnd and BackEnd de
 - **Cloud:** Git/GitHub, Docker
 
 ## 📫 Contact Me
-- Email: muskusha10l@gmail.com
+- Email: muskusha10@gmail.com
 - GitHub: [nayeemabee](https://github.com/nayeemabee)
 - LinkedIn: [Nayeema-Bee](https://www.linkedin.com/in/nayeema-bee-850318235/)
 
