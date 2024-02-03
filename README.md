@@ -18,7 +18,7 @@ I'm a passionate Software Developer with a focus on both FrontEnd and BackEnd de
 - Software Developer at Dhitva PVT. LMT. 2023.
 
 ## 🔧 Skills
-- **BackEnd Development:** Python/NumPy/Pandas, Django/RestApi's, SQL/MongoDB
+- **BackEnd Development:** Python, Django/RestApi's, SQL/MongoDB
 - **FrontEnd Development:** Html/CSS/JS/Bootstrap
 - **Database:** SQL/MongoDB
 - **Tools:** AWS/EC2/S3, Docker
