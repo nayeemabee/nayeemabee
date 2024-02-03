@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, I'm Nayeema!👋  
+I'm a Software Developer with a passion about leveraging technology. My expertise lies in Both FrontEnd and BackEnd Development, More in BackEnd, and I'm always excited to learn and explore new technologies.
 
 <!--
 **nayeemabee/nayeemabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
