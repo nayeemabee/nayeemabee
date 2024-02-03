@@ -1,36 +1,35 @@
-# Hello, I'm Nayeema!👋  
+# Hello, I'm Nayeema! 👋
 
-I'm a Software Developer with a passion about leveraging technology. My expertise lies in Both FrontEnd and BackEnd Development, More in BackEnd, and I'm always excited to learn and explore new technologies.
-
+I'm a passionate Software Developer with a focus on both FrontEnd and BackEnd development. My heart lies in crafting efficient BackEnd solutions, and I'm always eager to enhance my skills and explore the latest technologies.
 
 ## 🚀 Projects
-1. [Fitness Club](https://github.com/nayeemabee/Fitness-Club) - This project is a paid membership site built using Django and integrates with the Stripe dashboard using the Stripe library.
-
+1. [Fitness Club](https://github.com/nayeemabee/Fitness-Club) - A paid membership site built using Django and integrates with the Stripe dashboard using the Stripe library.
+  
 2. [Django-Custom-User-Authentication](https://github.com/nayeemabee/Django-Custom-User-Authentication) - A project on Django Custom User Authentication.
 
-3. [Task-Manager](https://github.com/nayeemabee/Task_Manager) - This is a small project to Manage To-Do Tasks with All CRUD operations.
+3. [Task-Manager](https://github.com/nayeemabee/Task_Manager) - A small project to Manage To-Do Tasks with all CRUD operations.
 
-4. [Cup-Board](https://github.com/nayeemabee/cupBoard) - A virtual Library to Help Students to study Digitally and at anywhere.
+4. [Cup-Board](https://github.com/nayeemabee/cupBoard) - A virtual Library to help students study digitally and anywhere.
 
 ## 📚 Education
 - Bachelor Of Technology Degree in Electronic and Communication Engineering from Shri Ram Institute of Technology, 2023.
 
 ## 💼 Work Experience
-- Dhitva PVT. LMT, SDE, 2023
+- Software Developer at Dhitva PVT. LMT. 2023.
 
 ## 🔧 Skills
-- Python/NumPy/Pandas
-- Html/CSS/JS/Bootstrap
-- Django/RestApi's
-- SQL/MongoDB
-- AWS/EC2/S3
-- Docker
+- **BackEnd Development:** Python/NumPy/Pandas, Django/RestApi's, SQL/MongoDB
+- **FrontEnd Development:** Html/CSS/JS/Bootstrap
+- **Database:** SQL/MongoDB
+- **Tools:** AWS/EC2/S3, Docker
 
 ## 📫 Contact Me
 - Email: muskusha10l@gmail.com
+- GitHub: [nayeemabee](https://github.com/nayeemabee)
 - LinkedIn: [nayeemabee](https://github.com/nayeemabee)
 
-Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi! 👩‍💻
+Feel free to explore my repositories, and let's connect to discuss software development, technology, or any exciting opportunities! 👩‍💻
+
 
 
 
