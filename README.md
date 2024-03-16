@@ -12,17 +12,18 @@ I'm a passionate Software Developer with a focus on both FrontEnd and BackEnd de
 4. [Cup-Board](https://github.com/nayeemabee/cupBoard) - A virtual Library to help students study digitally and anywhere.
 
 ## 📚 Education
-- Bachelor Of Technology Degree in Electronic and Communication Engineering from Shri Ram Institute of Technology, 2023.
+- Bachelor Of Technology Degree in Electronic and Communication Engineering from Shri Ram Institute of Technology, August 2019 - May 2023.
 
 ## 💼 Work Experience
-- Software Developer at Dhitva PVT. LMT. 2023.
+- Software Developer at Dhitva PVT. LTD.: April 2023 - Present.
 
 ## 🔧 Skills
-- **BackEnd Development:** Python, Django/RestApi's, SQL/MongoDB
-- **FrontEnd Development:** Html/CSS/JS/Bootstrap/Angular
-- **Database:** SQL/MongoDB
-- **Cloud:** AWS/EC2/S3
-- **Cloud:** Git/GitHub, Docker
+- **BackEnd Development:** Python, Django, DjangoRestFramework
+- **FrontEnd Development:** HTML, CSS, JS, Bootstrap, Angular
+- **Database:** SQL, MongoDB
+- **Cloud:** AWS (EC2,S3, RDS, DynamoDB)
+- **Version Control:** Git, Github, Bitbucket
+- **Containerisation:** Docker
 
 ## 📫 Contact Me
 - Email: muskusha10@gmail.com
